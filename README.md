@@ -1,5 +1,5 @@
 # Model_UN
-A Java-based UNA-USA style Model UN Chairing program with a GUI built on JavaFX. **I will update the README later. For mor information, just search on the web or ask AI**
+A Java-based UNA-USA style Model UN Chairing program with a GUI built on JavaFX. **I will update the README later. For more information, just search on the web or ask AI**
 
 ## What is MUN?
 
